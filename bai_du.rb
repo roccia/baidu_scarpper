@@ -1,8 +1,5 @@
-require 'mechanize'
 require 'nokogiri'
-require 'json'
-require 'addressable/uri'
-require 'httparty'
+require 'open-uri'
 require 'curb'
 
 
@@ -11,21 +8,12 @@ class BaiDu
 
 
   def  self.get_first_page
-    url_arys = []
     word = '东风日产'
     url = "http://www.baidu.com/s?wd=site:www.gmw.cn #{URI.encode(word)}"
-    agent = Mechanize.new
-      page = agent.get(url)
+    first_page =  Nokogiri::HTML(open(url))
+    get_url(first_page)
 
-    puts agent.page.link_with(:text => '下一页')
-    page.links.each do |link|
-      p link.text
-    end
-    page.search('//div[@class="result c-container "]//h3[@class="t"]/a').map { |link| url_arys << link['href'] }
-    puts url_arys
-    # result = get_url(first_page)
-    # result
- end
+  end
 
   def self.get_next_page
     word = '东风日产'
