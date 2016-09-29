@@ -1,30 +1,34 @@
 require 'nokogiri'
+require 'rest-client'
+
 require 'open-uri'
 require 'curb'
+require 'mechanize'
 
 
 class BaiDu
 
-
-
-  def  self.get_first_page
-    word = '东风日产'
-    url = "http://www.baidu.com/s?wd=site:www.gmw.cn #{URI.encode(word)}"
-    first_page =  Nokogiri::HTML(open(url))
-    get_url(first_page)
+  def set_paramter
 
   end
 
-  def self.get_next_page
-    word = '东风日产'
+
+  def  self.get_page
+    word = '广汽本田'
+    url = "http://www.baidu.com/s?wd=site:people.com.cn #{URI.encode(word)}"
+
     base_uri = "http://www.baidu.com"
-    url = "http://www.baidu.com/s?wd=site:www.gmw.cn #{URI.encode(word)}"
-    first_page =  Nokogiri::HTML(open(url))
-      page  =  first_page.xpath('//div[@id="page"]/a').map { |link|  link['href']}
-    puts next_page =  URI.join(base_uri,page.last).to_s
-     res = Nokogiri::HTML(open(next_page))
-     result = get_url(res)
-    result
+     first_page =  Nokogiri::HTML(open(url))
+
+      s = first_page.xpath('//div[@id="page"]/a/@href')
+   puts s
+        s.each do |i|
+
+           page = URI.join(base_uri,i).to_s
+            rs =  Nokogiri::HTML(open(page))
+             result = get_url(rs)
+
+        end
 
   end
 
@@ -33,7 +37,6 @@ class BaiDu
      url_arys = []
      redirect_urls =[]
       doc.xpath('//div[@class="result c-container "]//h3[@class="t"]/a').map { |link| url_arys << link['href'] }
-
        url_arys.each do |u|
          result = Curl::Easy.perform(u) do |curl|
            curl.follow_location = true
@@ -43,6 +46,6 @@ class BaiDu
         redirect_urls
   end
 
-    puts get_first_page
+    puts get_page
 
 end
