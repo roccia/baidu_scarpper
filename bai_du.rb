@@ -9,78 +9,94 @@ class BaiDu
   TIME = '=1451520000,1472601600|stftype=1'
   BASE_URI = "http://www.baidu.com/s?"
   PerPage = 50
+  Agent = Mechanize.new
 
-  def initialize
-    @agent = Mechanize.new
-    @page
-  end
-
-  def query(word)
+  def self.query(word)
     q = Array.new
     q << "wd=#{word}"
     q << "rn=#{PerPage}"
     q << "gpc=stf#{URI.encode(TIME)}"
     query_str = q.join("&")
     uri = URI.encode(BASE_URI+ query_str)
+    uri
+  end
+
+  def self.generate_url
+    words = []
+    sites = []
+    url = []
+
+    File.read("words.txt").each_line{|line| words << line.chop}
+
+    File.read("sites.txt").each_line{|line|  sites << line.chop}
+    words.each do |w|
+      sites.each do |s|
+        url << "http://www.baidu.com/s?wd=intitle:#{URI.encode(w)}%20site:#{s}&rn=50&gpc=stf#{URI.encode(TIME)}"
+      end
+    end
+    url
+  end
+
+  def self.generate_page
+    queue = Queue.new
+    threads = []
+    generate_url.each{|u| queue.push(u) }
+    threadNums = 1000
+    threadNums.times do
+      threads<<Thread.new do
+        until queue.empty?
+          url = queue.pop(true) rescue nil
+          page = Agent.get(url)
+          puts get_all_urls(page)
+        end
+      end
+    end
+    threads.each{|t| t.join}
 
   end
 
-  def generate_page
-    url = "http://www.baidu.com/s?wd=intitle:#{URI.encode(WORD)}%20site:sina.com.cn&rn=50&gpc=stf#{URI.encode(TIME)}"
-   @page = @agent.get(url)
 
+  def self.click_to_next_page(page)
+    Agent.click(page.link_with(:text=>/下一页/)) unless page.link_with(:text=>/下一页/).nil?
   end
 
-  def  get_page
-    # url = "http://www.baidu.com/s?wd=intitle:#{URI.encode(WORD)}%20site:sina.com.cn&rn=50&gpc=stf#{URI.encode(TIME)}"
-    #
-    # # agent = Mechanize.new
-    #  @page =  @agent.get(url)
-
-  puts next_page(generate_page)
-    # p agent.page.link_with(:text => '下一页>').click unless page.link_with(:text=>/下一页/).nil?
-
-    #
-    #  s = first_page.xpath('//div[@id="page"]/a/@href')
-    #     s.each do |i|
-    #     p urls =  URI.join(BASE_URI,i)
-    #     end
-     url_arys = []
-    generate_page.search('//div[@class="result c-container "]//h3[@class="t"]/a').each do |p|
-
-      url_arys << p['href']
+  def self.get_all_next_pages(n_page)
+    results = []
+    np = click_to_next_page(n_page)
+    results.push(np)
+    until !np
+      np = click_to_next_page(np)
+      np && results.push(np)
     end
 
+      results
   end
 
+  def self.get_all_urls(page)
+    url_arys = []
+    next_pages = get_all_next_pages(page)
+    next_pages.each do |rs|
+      rs.search('//div[@class="result c-container "]//h3[@class="t"]/a').each do |p|
+        url_arys << p['href']
+      end
+    end
+    url_arys
+  end
 
-  def next_page(page)
-   np =  page.link_with(:text=>/下一页/)
-  puts get_np = Mechanize.new.click(np) unless np.nil?
+  def self.get_real_urls
+     redirected_urls =[]
 
-
-
-   next_page(get_np)
-
-   end
-
-
-
-  def self.get_url(doc)
-
-     url_arys = []
-     redirect_urls =[]
-      doc.xpath('//div[@class="result c-container "]//h3[@class="t"]/a').map { |link| url_arys << link['href'] }
-       url_arys.each do |u|
+       get_all_urls.each do |u|
          result = Curl::Easy.perform(u) do |curl|
            curl.follow_location = true
          end
-          redirect_urls << result.last_effective_url
+          redirected_urls << result.last_effective_url
        end
-        redirect_urls
+       puts  redirected_urls
   end
 
+
+   puts generate_page
 end
 
- b = BaiDu.new
-puts b.get_page
+
