@@ -1,36 +1,70 @@
 require 'nokogiri'
 require 'rest-client'
-
 require 'open-uri'
 require 'curb'
 require 'mechanize'
 
-
 class BaiDu
+  WORD = '广汽本田'
+  TIME = '=1451520000,1472601600|stftype=1'
+  BASE_URI = "http://www.baidu.com/s?"
+  PerPage = 50
 
-  def set_paramter
+  def initialize
+    @agent = Mechanize.new
+    @page
+  end
+
+  def query(word)
+    q = Array.new
+    q << "wd=#{word}"
+    q << "rn=#{PerPage}"
+    q << "gpc=stf#{URI.encode(TIME)}"
+    query_str = q.join("&")
+    uri = URI.encode(BASE_URI+ query_str)
+
+  end
+
+  def generate_page
+    url = "http://www.baidu.com/s?wd=intitle:#{URI.encode(WORD)}%20site:sina.com.cn&rn=50&gpc=stf#{URI.encode(TIME)}"
+   @page = @agent.get(url)
+
+  end
+
+  def  get_page
+    # url = "http://www.baidu.com/s?wd=intitle:#{URI.encode(WORD)}%20site:sina.com.cn&rn=50&gpc=stf#{URI.encode(TIME)}"
+    #
+    # # agent = Mechanize.new
+    #  @page =  @agent.get(url)
+
+  puts next_page(generate_page)
+    # p agent.page.link_with(:text => '下一页>').click unless page.link_with(:text=>/下一页/).nil?
+
+    #
+    #  s = first_page.xpath('//div[@id="page"]/a/@href')
+    #     s.each do |i|
+    #     p urls =  URI.join(BASE_URI,i)
+    #     end
+     url_arys = []
+    generate_page.search('//div[@class="result c-container "]//h3[@class="t"]/a').each do |p|
+
+      url_arys << p['href']
+    end
 
   end
 
 
-  def  self.get_page
-    word = '广汽本田'
-    url = "http://www.baidu.com/s?wd=site:people.com.cn #{URI.encode(word)}"
+  def next_page(page)
+   np =  page.link_with(:text=>/下一页/)
+  puts get_np = Mechanize.new.click(np) unless np.nil?
 
-    base_uri = "http://www.baidu.com"
-     first_page =  Nokogiri::HTML(open(url))
 
-      s = first_page.xpath('//div[@id="page"]/a/@href')
-   puts s
-        s.each do |i|
 
-           page = URI.join(base_uri,i).to_s
-            rs =  Nokogiri::HTML(open(page))
-             result = get_url(rs)
+   next_page(get_np)
 
-        end
+   end
 
-  end
+
 
   def self.get_url(doc)
 
@@ -46,6 +80,7 @@ class BaiDu
         redirect_urls
   end
 
-    puts get_page
-
 end
+
+ b = BaiDu.new
+puts b.get_page
