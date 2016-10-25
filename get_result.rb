@@ -4,7 +4,7 @@ require 'rest-client'
  require 'pathname'
 
 class GetResult
-  TIME = '=1451520000,1472601600|stftype=1'
+
   def get_words
     words = []
     threads =[]
@@ -35,11 +35,14 @@ class GetResult
   end
 
   def  generate_url(word)
+    start_time = Date.new(2016,01,01).to_time.to_i
+    end_time = Time.now.to_time.to_i
+    t = "=#{start_time},#{end_time}|stftype=1"
     sites = []
     all_url = []
     File.read("sites.txt").each_line{|line|  sites << line.chop}
     sites.each do |s|
-      all_url << "http://www.baidu.com/s?wd=intitle:#{URI.encode(word)}%20site:%20#{s}&rn=50&gpc=stf#{URI.encode(TIME)}"
+      all_url << "http://www.baidu.com/s?wd=intitle:#{URI.encode(word)}%20site:%20#{s}&rn=50&gpc=stf#{URI.encode(t)}"
     end
     all_url.join("\n")
   end
@@ -50,6 +53,7 @@ end
 
 
 
-
+   g = GetResult.new
+  g.get_words
 
 

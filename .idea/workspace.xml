@@ -2,410 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fa72361b-918a-4aa4-82f6-accdd686927a" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/360.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/360行车记录仪.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/3M中国.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ABB.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BP.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/E袋洗.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/IBM.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/IBM_result.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/LG.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/LG_result.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/OPPO.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SK中国.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/UTC.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/VIVO.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/airbnb.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uber.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vmware.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/word.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/一汽丰田.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/一汽大众.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/万向信托.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/万科.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/万达集团.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/三元.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/三胞集团.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/三菱商事.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/上实发展.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/上汽大众.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/上汽通用.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/上汽集团.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/上海浦发.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/世联行.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/世贸集团.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/东南汽车.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/东方航空.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/东方雨虹.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/东易日盛.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/东箭集团.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/东阿阿胶.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/东陶.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/东风乘用车.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/东风日产.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/东风柳汽.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/东风标致.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/东风裕隆.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/东风雪铁龙.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/东鹏陶瓷.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/中信建设.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/中信银行.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/中南建设.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/中原地产.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/中国三星.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/中国中车.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/中国电信.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/中国石油.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/中国移动.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/中国联通.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/中奥到家.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/中民投.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/中海地产.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/中海油.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/中海阳.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/中粮地产.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/中航地产.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/中赫集团.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/中银基金.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/丰田中国.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/丰田纺织.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/丽人丽妆.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/乐视.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/九牧卫浴.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/九阳.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/九龙仓.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/五粮液.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/亚洲航空.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/亚马逊.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/京东.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/京东方.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/京都念慈菴.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/人保财险.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/亿利资源.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/以岭药业.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/伊利.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/优客工场.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/优衣库.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/佳能.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/保乐力加.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/保利协鑫.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/保利地产.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/保时捷.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/兄弟中国.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/光大银行.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/光明集团.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/养乐多.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/农业银行.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/农夫山泉.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/凤凰金融.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/凯德集团.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/分众传媒.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/利乐.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/加多宝.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/北京现代.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/北京现代金融.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/北大荒.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/北森.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/北汽.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/华夏基金.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/华夏幸福.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/华夏银行.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/华帝.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/华晨宝马.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/华润怡宝.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/华润置地.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/华润集团.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/华硕.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/华锐风电.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/协鑫集成.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/卓越置业.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/南方电网.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/南方航空.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/博世汽车.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/博恩集团.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/博洛尼.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/卡特彼勒.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/古井贡.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/可口可乐.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/合生地产.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/吉利汽车.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/唯品会.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/喜达屋.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/嘉实基金.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/四季沐歌.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/四川信托.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/固生堂.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/国家电网.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/国美在线.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/国美电器.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/国金基金.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/国金证券.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/圣象.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/均豪物业.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/壳牌.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/复华控股.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/大众汽车.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/大众汽车金融.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/大唐电信.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/大唐财富.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/天朗集团.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/天河光能.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/天狮.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/天能集团.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/天风证券.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/太平人寿.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/太平洋保险.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/太阳雨.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/夸客金融.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/奇瑞.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/奇瑞捷豹路虎.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/奔驰.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/奥克斯.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/奥园地产.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/奥的斯.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/奥迪.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/宁波银行.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/宇通.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/安利.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/安踏.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/安邦保险.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/宛西制药.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/宜信.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/宜家.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/宝沃.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/宝洁.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/宝能地产.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/宝马中国.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/宝龙地产.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/实惠APP.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/宾利.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/富力地产.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/小桔科技.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/小熊尼奥.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/小米.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/工商银行.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/巨龙互娱.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/帅康.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/平安惠普.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/平安租赁.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/广汽.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/广汽丰田.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/广汽本田.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/广汽菲克.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/康师傅.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/康弘药业.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/建业集团.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/建元资本.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/强生.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/当代集团.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/彩生活.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/微软.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/志高.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/忠旺.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/思科.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/恒丰银行.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/恒大.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/恒天财富.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/恒安国际.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/恒昌财富.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/惠普.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/慕思.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/我爱我家.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/戴尔.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/戴德梁行.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/找钢网.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/拉芳.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/招商局地产.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/招商新能源.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/指挥家VR.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/捷豹路虎.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/探路者.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/搜狗.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/携程.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/新世界集团.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/新东方.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/新华保险.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/新华信托.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/新城控股.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/新奥集团.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/新昌集团.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/新浪.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/新鸿基.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/施耐德.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/日产中国.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/日出东方.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/日立.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/日立电梯.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/旭辉.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/昌河汽车.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/易一天使.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/易九金融.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/易到用车.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/易宝支付.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/易极付.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/易配城.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/星巴克.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/星河湾.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/星河集团.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/景瑞地产.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/晶澳.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/晶科.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/晶龙集团.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/曙光.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/朗诗地产.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/李宁.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/柏丽橱柜.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/柒牌.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/格兰仕.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/欧普照明.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/欧派家居.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/欧琳.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/正荣集团.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/民生信托.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/民生典当.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/民生租赁.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/民生证券.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/民生财富.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/民生银行.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/水井坊.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/水塔陈醋.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/汇美.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/汉能.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/汉腾.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/江中集团.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/沃尔沃.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/沃尔玛.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/泛海控股.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/波音.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/泰康人寿.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/泰然金融.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/泰禾地产.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/泸州老窖.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/洪泰基金.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/浙江卫视.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/浪潮.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/海亮集团.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/海信集团.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/海天味业.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/海尔.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/海底捞.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/海航.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/海航集团.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/港华投资.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/点融网.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/爱康国宾.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/爱慕集团.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/爱普生.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/特斯拉.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/特斯拉_result.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/猪八戒网.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/珠江地产.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/白云山中一药业.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/百威.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/百度.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/百胜.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/盈泰财富云.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/碧桂园.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/神州优车.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/神州数码.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/神州易桥.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/福田汽车.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/科勒.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/科大讯飞.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/科通芯城.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/空客.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/立邦.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/第一车贷.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/箭牌.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/红星美凯龙.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/维达.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/绿地.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/绿城.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/网易.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/美克美家.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/美国联合航空.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/美标.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/美菱.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/老板电器.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/联东集团.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/联合技术.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/联塑.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/联想.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/聚美优品.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/腾讯.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/腾讯视频.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/艾默生电气.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/苏泊尔.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/英利.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/英孚.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/英特尔.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/英菲尼迪.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/莱蒙国际.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/葛洲坝集团.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/董酒.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/蒙牛.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/蒙草.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/蓝光.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/蔚来.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/蚂蚁金服.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/融信集团.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/融创集团.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/观致.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/诺亚财富.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/诺华制药.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/豆果美食.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/贵州习酒.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/超威集团.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/车易拍.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/辉瑞制药.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/远东控股.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/远大.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/远景能源.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/远洋地产.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/途家.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/途牛.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/通江集团.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/通灵珠宝.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/通用五菱.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/通用电气.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/道达尔.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/邮储银行.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/郑州日产.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/重庆银行.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/金佰利.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/金光APP.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/金地.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/金科集团.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/金立.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/金筑集团.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/金融街地产.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/金风科技.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/钜派投资.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/银华基金.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/链家.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/长城物业.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/长安汽车.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/长安福特.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/长安马自达.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/长江实业.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/阳光城集团.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/阳光能源.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/阿特斯电力.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/阿里巴巴.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/阿里斯顿.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/雀巢.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/雷克萨斯.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/青岛啤酒.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/飞鹤.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/首创.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/首开.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/鲁能集团.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/鸿坤集团.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/齐家.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/龙湖地产.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/龙蟠科技.txt" afterPath="" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sum.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yoga_scarpper.rb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/test.iml" afterPath="$PROJECT_DIR$/.idea/test.iml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bai_du.rb" afterPath="$PROJECT_DIR$/bai_du.rb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/get_result.rb" afterPath="$PROJECT_DIR$/get_result.rb" />
     </list>
     <ignored path="test.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -418,17 +20,20 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/test@zhong_sheng.coverage" NAME="zhong_sheng Coverage Results" MODIFIED="1473308332529" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="test" />
+    <SUITE FILE_PATH="coverage/test@get_result.coverage" NAME="get_result Coverage Results" MODIFIED="1477380146319" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="test" />
+    <SUITE FILE_PATH="coverage/test@yoga.coverage" NAME="yoga Coverage Results" MODIFIED="1472785820551" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="test" />
+    <SUITE FILE_PATH="coverage/test@sum.coverage" NAME="sum Coverage Results" MODIFIED="1476868093107" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="test" />
     <SUITE FILE_PATH="coverage/test@peng_yuan.coverage" NAME="peng_yuan Coverage Results" MODIFIED="1474528002472" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="test" />
     <SUITE FILE_PATH="coverage/test@zhi_ma.coverage" NAME="zhi_ma Coverage Results" MODIFIED="1471850898240" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="test" />
-    <SUITE FILE_PATH="coverage/test@zhong_sheng.coverage" NAME="zhong_sheng Coverage Results" MODIFIED="1473308332529" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="test" />
     <SUITE FILE_PATH="coverage/test@test.coverage" NAME="test Coverage Results" MODIFIED="1474164775483" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="test" />
-    <SUITE FILE_PATH="coverage/test@get_result.coverage" NAME="get_result Coverage Results" MODIFIED="1476261998209" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="test" />
     <SUITE FILE_PATH="coverage/test@x_ml.coverage" NAME="bai_du Coverage Results" MODIFIED="1475137021031" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="test" />
-    <SUITE FILE_PATH="coverage/test@bai_du.coverage" NAME="bai_du Coverage Results" MODIFIED="1476262738244" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="test" />
-    <SUITE FILE_PATH="coverage/test@yoga.coverage" NAME="yoga Coverage Results" MODIFIED="1472785820551" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="test" />
+    <SUITE FILE_PATH="coverage/test@bai_du.coverage" NAME="bai_du Coverage Results" MODIFIED="1476425379441" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="test" />
+    <SUITE FILE_PATH="coverage/test@yoga_scarpper.coverage" NAME="yoga_scarpper Coverage Results" MODIFIED="1476955158735" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="test" />
     <SUITE FILE_PATH="coverage/test@data.coverage" NAME="data Coverage Results" MODIFIED="1474193247174" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="test" />
     <SUITE FILE_PATH="coverage/test@tong_dun.coverage" NAME="tong_dun Coverage Results" MODIFIED="1474196183628" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="test" />
     <SUITE FILE_PATH="coverage/test@you_dun.coverage" NAME="you_dun Coverage Results" MODIFIED="1474340828765" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="test" />
+    <SUITE FILE_PATH="coverage/test@math.coverage" NAME="sum Coverage Results" MODIFIED="1476685729116" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="test" />
   </component>
   <component name="CreatePatchCommitExecutor">
     <option name="PATCH_PATH" value="" />
@@ -439,21 +44,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="bai_du.rb" pinned="false" current-in-tab="true">
+      <file leaf-file-name="bai_du.rb" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/bai_du.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="248">
-              <caret line="113" column="5" selection-start-line="113" selection-start-column="5" selection-end-line="113" selection-end-column="5" />
+            <state relative-caret-position="135">
+              <caret line="24" column="21" selection-start-line="24" selection-start-column="21" selection-end-line="24" selection-end-column="21" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="get_result.rb" pinned="false" current-in-tab="false">
+      <file leaf-file-name="get_result.rb" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/get_result.rb">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="750">
-              <caret line="50" column="0" selection-start-line="50" selection-start-column="0" selection-end-line="50" selection-end-column="0" />
+              <caret line="50" column="3" selection-start-line="50" selection-start-column="3" selection-end-line="50" selection-end-column="3" />
               <folding />
             </state>
           </provider>
@@ -462,18 +67,8 @@
       <file leaf-file-name="sites.txt" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/sites.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="226">
+            <state relative-caret-position="2070">
               <caret line="138" column="14" selection-start-line="138" selection-start-column="14" selection-end-line="138" selection-end-column="14" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="words.txt" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/words.txt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="556">
-              <caret line="399" column="4" selection-start-line="399" selection-start-column="4" selection-end-line="399" selection-end-column="4" />
               <folding />
             </state>
           </provider>
@@ -515,10 +110,13 @@
         <option value="$PROJECT_DIR$/蔚来.txt" />
         <option value="$PROJECT_DIR$/广汽本田.txt" />
         <option value="$PROJECT_DIR$/特斯拉.txt" />
-        <option value="$PROJECT_DIR$/words.txt" />
         <option value="$PROJECT_DIR$/LG_result.txt" />
-        <option value="$PROJECT_DIR$/get_result.rb" />
+        <option value="$PROJECT_DIR$/words.txt" />
         <option value="$PROJECT_DIR$/bai_du.rb" />
+        <option value="$PROJECT_DIR$/math.rb" />
+        <option value="$PROJECT_DIR$/sum.rb" />
+        <option value="$PROJECT_DIR$/yoga_scarpper.rb" />
+        <option value="$PROJECT_DIR$/get_result.rb" />
       </list>
     </option>
   </component>
@@ -529,8 +127,8 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="1012" />
-    <option name="y" value="102" />
+    <option name="x" value="805" />
+    <option name="y" value="200" />
     <option name="width" value="1435" />
     <option name="height" value="1159" />
   </component>
@@ -559,7 +157,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -580,12 +177,13 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scratches" />
       <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
-    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.ruby.settings.RubyActiveModuleSdkConfigurable" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
     <property name="settings.editor.splitter.proportion" value="0.2" />
     <property name="WebServerToolWindowFactoryState" value="false" />
   </component>
@@ -597,45 +195,7 @@
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
-  <component name="RunManager" selected="Ruby.bai_du">
-    <configuration default="false" name="peng_yuan" type="RubyRunConfigurationType" factoryName="Ruby" temporary="true">
-      <module name="test" />
-      <RUBY_RUN_CONFIG NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
-      <RUBY_RUN_CONFIG NAME="WORK DIR" VALUE="$MODULE_DIR$" />
-      <RUBY_RUN_CONFIG NAME="SHOULD_USE_SDK" VALUE="false" />
-      <RUBY_RUN_CONFIG NAME="ALTERN_SDK_NAME" VALUE="" />
-      <RUBY_RUN_CONFIG NAME="myPassParentEnvs" VALUE="true" />
-      <envs />
-      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
-      <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
-      <EXTENSION ID="RubyCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" track_test_folders="true" runner="rcov">
-        <COVERAGE_PATTERN ENABLED="true">
-          <PATTERN REGEXPS="/.rvm/" INCLUDED="false" />
-        </COVERAGE_PATTERN>
-      </EXTENSION>
-      <RUBY_RUN_CONFIG NAME="SCRIPT_PATH" VALUE="$MODULE_DIR$/peng_yuan.rb" />
-      <RUBY_RUN_CONFIG NAME="SCRIPT_ARGS" VALUE="" />
-      <method />
-    </configuration>
-    <configuration default="false" name="tong_dun" type="RubyRunConfigurationType" factoryName="Ruby" temporary="true">
-      <module name="test" />
-      <RUBY_RUN_CONFIG NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
-      <RUBY_RUN_CONFIG NAME="WORK DIR" VALUE="$MODULE_DIR$" />
-      <RUBY_RUN_CONFIG NAME="SHOULD_USE_SDK" VALUE="false" />
-      <RUBY_RUN_CONFIG NAME="ALTERN_SDK_NAME" VALUE="" />
-      <RUBY_RUN_CONFIG NAME="myPassParentEnvs" VALUE="true" />
-      <envs />
-      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
-      <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
-      <EXTENSION ID="RubyCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" track_test_folders="true" runner="rcov">
-        <COVERAGE_PATTERN ENABLED="true">
-          <PATTERN REGEXPS="/.rvm/" INCLUDED="false" />
-        </COVERAGE_PATTERN>
-      </EXTENSION>
-      <RUBY_RUN_CONFIG NAME="SCRIPT_PATH" VALUE="$MODULE_DIR$/tong_dun.rb" />
-      <RUBY_RUN_CONFIG NAME="SCRIPT_ARGS" VALUE="" />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Ruby.get_result">
     <configuration default="false" name="you_dun" type="RubyRunConfigurationType" factoryName="Ruby" temporary="true">
       <module name="test" />
       <RUBY_RUN_CONFIG NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
@@ -690,6 +250,44 @@
         </COVERAGE_PATTERN>
       </EXTENSION>
       <RUBY_RUN_CONFIG NAME="SCRIPT_PATH" VALUE="$MODULE_DIR$/get_result.rb" />
+      <RUBY_RUN_CONFIG NAME="SCRIPT_ARGS" VALUE="" />
+      <method />
+    </configuration>
+    <configuration default="false" name="sum" type="RubyRunConfigurationType" factoryName="Ruby" temporary="true">
+      <module name="test" />
+      <RUBY_RUN_CONFIG NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
+      <RUBY_RUN_CONFIG NAME="WORK DIR" VALUE="$MODULE_DIR$" />
+      <RUBY_RUN_CONFIG NAME="SHOULD_USE_SDK" VALUE="false" />
+      <RUBY_RUN_CONFIG NAME="ALTERN_SDK_NAME" VALUE="" />
+      <RUBY_RUN_CONFIG NAME="myPassParentEnvs" VALUE="true" />
+      <envs />
+      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
+      <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
+      <EXTENSION ID="RubyCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" track_test_folders="true" runner="rcov">
+        <COVERAGE_PATTERN ENABLED="true">
+          <PATTERN REGEXPS="/.rvm/" INCLUDED="false" />
+        </COVERAGE_PATTERN>
+      </EXTENSION>
+      <RUBY_RUN_CONFIG NAME="SCRIPT_PATH" VALUE="$MODULE_DIR$/sum.rb" />
+      <RUBY_RUN_CONFIG NAME="SCRIPT_ARGS" VALUE="" />
+      <method />
+    </configuration>
+    <configuration default="false" name="yoga_scarpper" type="RubyRunConfigurationType" factoryName="Ruby" temporary="true">
+      <module name="test" />
+      <RUBY_RUN_CONFIG NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
+      <RUBY_RUN_CONFIG NAME="WORK DIR" VALUE="$MODULE_DIR$" />
+      <RUBY_RUN_CONFIG NAME="SHOULD_USE_SDK" VALUE="false" />
+      <RUBY_RUN_CONFIG NAME="ALTERN_SDK_NAME" VALUE="" />
+      <RUBY_RUN_CONFIG NAME="myPassParentEnvs" VALUE="true" />
+      <envs />
+      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
+      <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
+      <EXTENSION ID="RubyCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" track_test_folders="true" runner="rcov">
+        <COVERAGE_PATTERN ENABLED="true">
+          <PATTERN REGEXPS="/.rvm/" INCLUDED="false" />
+        </COVERAGE_PATTERN>
+      </EXTENSION>
+      <RUBY_RUN_CONFIG NAME="SCRIPT_PATH" VALUE="$MODULE_DIR$/yoga_scarpper.rb" />
       <RUBY_RUN_CONFIG NAME="SCRIPT_ARGS" VALUE="" />
       <method />
     </configuration>
@@ -824,19 +422,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Ruby.peng_yuan" />
-      <item index="1" class="java.lang.String" itemvalue="Ruby.tong_dun" />
-      <item index="2" class="java.lang.String" itemvalue="Ruby.you_dun" />
-      <item index="3" class="java.lang.String" itemvalue="Ruby.bai_du" />
-      <item index="4" class="java.lang.String" itemvalue="Ruby.get_result" />
+      <item index="0" class="java.lang.String" itemvalue="Ruby.you_dun" />
+      <item index="1" class="java.lang.String" itemvalue="Ruby.bai_du" />
+      <item index="2" class="java.lang.String" itemvalue="Ruby.get_result" />
+      <item index="3" class="java.lang.String" itemvalue="Ruby.sum" />
+      <item index="4" class="java.lang.String" itemvalue="Ruby.yoga_scarpper" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Ruby.bai_du" />
-        <item index="1" class="java.lang.String" itemvalue="Ruby.get_result" />
-        <item index="2" class="java.lang.String" itemvalue="Ruby.you_dun" />
-        <item index="3" class="java.lang.String" itemvalue="Ruby.tong_dun" />
-        <item index="4" class="java.lang.String" itemvalue="Ruby.peng_yuan" />
+        <item index="0" class="java.lang.String" itemvalue="Ruby.get_result" />
+        <item index="1" class="java.lang.String" itemvalue="Ruby.yoga_scarpper" />
+        <item index="2" class="java.lang.String" itemvalue="Ruby.sum" />
+        <item index="3" class="java.lang.String" itemvalue="Ruby.bai_du" />
+        <item index="4" class="java.lang.String" itemvalue="Ruby.you_dun" />
       </list>
     </recent_temporary>
   </component>
@@ -878,12 +476,20 @@
       <workItem from="1475983813478" duration="9270000" />
       <workItem from="1476001218149" duration="40943000" />
       <workItem from="1476173700832" duration="89000" />
-      <workItem from="1476179666500" duration="17542000" />
+      <workItem from="1476179666500" duration="18237000" />
+      <workItem from="1476325928480" duration="6455000" />
+      <workItem from="1476676656386" duration="2217000" />
+      <workItem from="1476696580181" duration="5478000" />
+      <workItem from="1476777962055" duration="2042000" />
+      <workItem from="1476787510792" duration="2191000" />
+      <workItem from="1476859522698" duration="8515000" />
+      <workItem from="1476948336816" duration="2343000" />
+      <workItem from="1477379728573" duration="445000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="395255000" />
+    <option name="totallyTimeSpent" value="425636000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -895,16 +501,15 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="1012" y="102" width="1435" height="1159" extended-state="0" />
+    <frame x="805" y="200" width="1435" height="1159" extended-state="0" />
     <editor active="false" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3173008" sideWeight="0.4937888" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3546303" sideWeight="0.4937888" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32949087" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.38136408" sideWeight="0.39626706" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32949087" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.38136408" sideWeight="0.60373294" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.38136408" sideWeight="0.60373294" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32564843" sideWeight="0.4965157" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3086863" sideWeight="0.50621116" order="2" side_tool="true" content_ui="tabs" />
@@ -914,6 +519,7 @@
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32949087" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
     <layout-to-restore>
@@ -952,7 +558,7 @@
       <breakpoints>
         <line-breakpoint enabled="true" type="ruby-line">
           <url>file://$PROJECT_DIR$/bai_du.rb</url>
-          <line>36</line>
+          <line>20</line>
           <option name="timeStamp" value="7" />
         </line-breakpoint>
       </breakpoints>
@@ -961,21 +567,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$APPLICATION_HOME_DIR$/rubystubs23/digest.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="349">
-          <caret line="262" column="21" selection-start-line="262" selection-start-column="21" selection-end-line="262" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$APPLICATION_HOME_DIR$/rubystubs23/open_ssl.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-5999">
-          <caret line="2054" column="17" selection-start-line="2054" selection-start-column="17" selection-end-line="2054" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/zhong_sheng.rb" />
     <entry file="file://$PROJECT_DIR$/peng_yuan.rb" />
     <entry file="file://$PROJECT_DIR$/tong_dun.rb" />
     <entry file="file://$USER_HOME$/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/serper-0.1.0/lib/serper/baidu/crawler.rb">
@@ -1038,20 +629,8 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/data.csv">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="2" selection-start-line="0" selection-start-column="2" selection-end-line="0" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/.txt" />
+    <entry file="file://$PROJECT_DIR$/data.csv" />
     <entry file="file://$USER_HOME$/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/mechanize-2.7.5/lib/mechanize/file_request.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="135">
@@ -1073,48 +652,12 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test2.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/word.csv">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test1.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="2393" column="44" selection-start-line="2393" selection-start-column="44" selection-end-line="2393" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/东风雪铁龙.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/宇通.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-16604">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/汉腾汽车.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/test2.txt" />
+    <entry file="file://$PROJECT_DIR$/word.csv" />
+    <entry file="file://$PROJECT_DIR$/test1.txt" />
+    <entry file="file://$PROJECT_DIR$/东风雪铁龙.txt" />
+    <entry file="file://$PROJECT_DIR$/宇通.txt" />
+    <entry file="file://$PROJECT_DIR$/汉腾汽车.txt" />
     <entry file="file://$USER_HOME$/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/rest-client-1.8.0/lib/restclient.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="205">
@@ -1122,25 +665,12 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/蔚来.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-10499">
-          <caret line="14" column="33" selection-start-line="14" selection-start-column="33" selection-end-line="14" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/保时捷.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-4870">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/蔚来.txt" />
+    <entry file="file://$PROJECT_DIR$/保时捷.txt" />
     <entry file="file://$USER_HOME$/.rbenv/versions/2.3.1/lib/ruby/2.3.0/rubygems/core_ext/kernel_require.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="205">
           <caret line="54" column="0" selection-start-line="54" selection-start-column="0" selection-end-line="54" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1148,142 +678,65 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/广汽本田.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1541">
-          <caret line="3732" column="5" selection-start-line="2428" selection-start-column="0" selection-end-line="2428" selection-end-column="5" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/广汽本田.txt" />
     <entry file="file://$USER_HOME$/.rbenv/versions/2.3.1/lib/ruby/2.3.0/uri/rfc2396_parser.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="205">
           <caret line="304" column="0" selection-start-line="304" selection-start-column="0" selection-end-line="304" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/特斯拉.txt" />
+    <entry file="file://$PROJECT_DIR$/雀巢.txt" />
+    <entry file="file://$PROJECT_DIR$/airbnb.txt" />
+    <entry file="file://$PROJECT_DIR$/uber.txt" />
+    <entry file="file://$PROJECT_DIR$/360行车记录仪.txt" />
+    <entry file="file://$PROJECT_DIR$/3M中国.txt" />
+    <entry file="file://$PROJECT_DIR$/LG.txt" />
+    <entry file="file://$PROJECT_DIR$/东风日产.txt" />
+    <entry file="file://$PROJECT_DIR$/一汽丰田.txt" />
+    <entry file="file://$PROJECT_DIR$/SK中国.txt" />
+    <entry file="file://$PROJECT_DIR$/ABB.txt" />
+    <entry file="file://$PROJECT_DIR$/IBM_result.txt" />
+    <entry file="file://$PROJECT_DIR$/LG_result.txt" />
+    <entry file="file://$PROJECT_DIR$/中海油_result.txt" />
     <entry file="file://$PROJECT_DIR$/words.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="556">
-          <caret line="399" column="4" selection-start-line="399" selection-start-column="4" selection-end-line="399" selection-end-column="4" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/特斯拉.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-446">
-          <caret line="4827" column="4" selection-start-line="4827" selection-start-column="0" selection-end-line="4827" selection-end-column="4" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/雀巢.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/airbnb.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/uber.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/360行车记录仪.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/3M中国.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/LG.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/东风日产.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/一汽丰田.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="286">
-          <caret line="142" column="0" selection-start-line="142" selection-start-column="0" selection-end-line="149" selection-end-column="48" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/SK中国.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ABB.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="19" column="89" selection-start-line="19" selection-start-column="89" selection-end-line="19" selection-end-column="89" />
-          <folding />
+        <state relative-caret-position="1485">
+          <caret line="99" column="4" selection-start-line="99" selection-start-column="4" selection-end-line="99" selection-end-column="4" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/sites.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="226">
+        <state relative-caret-position="2070">
           <caret line="138" column="14" selection-start-line="138" selection-start-column="14" selection-end-line="138" selection-end-column="14" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/IBM_result.txt">
+    <entry file="file://$PROJECT_DIR$/sum.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="60">
+          <caret line="4" column="0" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/yoga_scarpper.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="25" column="0" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/LG_result.txt">
+    <entry file="file://$PROJECT_DIR$/bai_du.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-29369">
-          <caret line="2886" column="0" selection-start-line="2886" selection-start-column="0" selection-end-line="2886" selection-end-column="0" />
+        <state relative-caret-position="135">
+          <caret line="24" column="21" selection-start-line="24" selection-start-column="21" selection-end-line="24" selection-end-column="21" />
           <folding />
         </state>
       </provider>
@@ -1291,15 +744,7 @@
     <entry file="file://$PROJECT_DIR$/get_result.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="750">
-          <caret line="50" column="0" selection-start-line="50" selection-start-column="0" selection-end-line="50" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/bai_du.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="248">
-          <caret line="113" column="5" selection-start-line="113" selection-start-column="5" selection-end-line="113" selection-end-column="5" />
+          <caret line="50" column="3" selection-start-line="50" selection-start-column="3" selection-end-line="50" selection-end-column="3" />
           <folding />
         </state>
       </provider>
