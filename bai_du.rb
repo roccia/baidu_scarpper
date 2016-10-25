@@ -118,9 +118,16 @@ class BaiDu
     end
  end
 
-  puts "keywords: "
-  puts $keywords
-  puts final_result
+  words = []
+  n = rand(10..600)
+  File.read("words.txt").each_line{|line| words << line.chop}
+  words.each do |w|
+    $keywords = w
+    puts $keywords
+    puts n
+    sleep n
+    final_result
+  end
 end
 
 
