@@ -16,6 +16,9 @@ class BaiDu
     a.follow_meta_refresh = true
   }
 
+
+
+
   $total_time_begin = Time.now.to_i
 
   def self.generate_page(uri)
@@ -119,7 +122,7 @@ class BaiDu
  end
 
   words = []
-  n = rand(10..600)
+  n = rand(10..11)
   File.read("words.txt").each_line{|line| words << line.chop}
   words.each do |w|
     $keywords = w
